@@ -1,0 +1,9 @@
+{
+  "pilot_id": "P01",
+  "repository_role": "READ_ONLY_TEST",
+  "data_class": "PUBLIC",
+  "expected_marker": "R10-P01-META-003",
+  "write_allowed": false,
+  "canonical_impact": "NONE",
+  "production": false
+}
