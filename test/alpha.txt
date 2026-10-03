@@ -1,0 +1,2 @@
+Synthetic public test file for the R10 P01 read-only connector validation.
+MARKER = R10-P01-ALPHA-001
